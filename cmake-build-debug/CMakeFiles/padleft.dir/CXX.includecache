@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/padleft.hpp
+string
+-
+
+C:/Users/Tania/CLionProjects/padleft/src/padleft.cpp
+padleft.hpp
+-
+

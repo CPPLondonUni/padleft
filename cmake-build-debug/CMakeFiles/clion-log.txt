@@ -1,0 +1,11 @@
+"C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Tania\CLionProjects\padleft
+-- The CXX compiler identification is GNU 9.2.0
+-- Check for working CXX compiler: C:/Program Files/MinGW/bin/g++.exe
+-- Check for working CXX compiler: C:/Program Files/MinGW/bin/g++.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Tania/CLionProjects/padleft/cmake-build-debug
