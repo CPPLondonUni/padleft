@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="padleft"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\test\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Tania/CLionProjects/padleft/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="padleft">
+				<Option output="C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/libpadleft.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Tania/CLionProjects/padleft/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Tania/CLionProjects/padleft/include"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/Makefile&quot;  VERBOSE=1 padleft"/>
+					<CompileFile command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="padleft/fast">
+				<Option output="C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/libpadleft.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Tania/CLionProjects/padleft/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Tania/CLionProjects/padleft/include"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/Makefile&quot;  VERBOSE=1 padleft/fast"/>
+					<CompileFile command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Tania/CLionProjects/padleft/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Tania/CLionProjects/padleft/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_padleft">
+				<Option output="C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/test/test_padleft.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/test"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Tania/CLionProjects/padleft/include"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 test_padleft"/>
+					<CompileFile command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_padleft/fast">
+				<Option output="C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/test/test_padleft.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/test"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/Tania/CLionProjects/padleft/include"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../include/c++/9.2.0/backward"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed"/>
+					<Add directory="c:\program files\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 test_padleft/fast"/>
+					<CompileFile command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Tania/CLionProjects/padleft/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Tania/CLionProjects/padleft/src/padleft.cpp">
+			<Option target="padleft"/>
+		</Unit>
+		<Unit filename="C:/Users/Tania/CLionProjects/padleft/test/catch_main.cpp">
+			<Option target="test_padleft"/>
+		</Unit>
+		<Unit filename="C:/Users/Tania/CLionProjects/padleft/test/test_padleft.cpp">
+			<Option target="test_padleft"/>
+		</Unit>
+		<Unit filename="C:/Users/Tania/CLionProjects/padleft/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/Tania/CLionProjects/padleft/test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
